@@ -4,9 +4,9 @@ import { SafeAreaView, Text, View, VirtualizedList} from 'react-native';
 const CityList = (props) => {
     return (
         <SafeAreaView>
-            <Viev>
+            <View>
                 <Text>CityList</Text>
-            </Viev>
+            </View>
         </SafeAreaView>
     );
 };
