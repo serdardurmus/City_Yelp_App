@@ -12,9 +12,9 @@ const Router = () => {
     return (
         <NavigationContainer>
             <Stack.Navigator>
-                <Stack.Screen name="Cities" component={CityList} options={{ headerShown: false}}/>
-                <Stack.Screen name="Restaurants" component={RestaurantList}  options={{ headerShown: false}}/>
-                <Stack.Screen name="Details" component={RestaurantDetail} options={{ headerShown: false}}/>
+                <Stack.Screen name="Cities" component={CityList} options={{ headerShown: true}}/>
+                <Stack.Screen name="Restaurants" component={RestaurantList}  options={{ headerShown: true}}/>
+                <Stack.Screen name="Details" component={RestaurantDetail} options={{ headerShown: true}}/>
             </Stack.Navigator>
         </NavigationContainer>
     );
