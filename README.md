@@ -4,4 +4,4 @@
 
 ## Expected Outcome
 
-![index.js](./Images/images (1).jpg)
+![Portfolio_Bulding_3.js](./Images/images (1).jpg)
