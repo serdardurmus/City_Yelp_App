@@ -9,9 +9,4 @@
 ![Image_3](https://github.com/serdardurmus/City_Yelp_App/tree/main/images/images(3).jpg)
 ![Image_4](https://github.com/serdardurmus/City_Yelp_App/tree/main/images/images(4).jpg)
 
-<img
-src=“images/images(1).jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img width="400" alt=“image 1” src=“https://github.com/serdardurmus/City_Yelp_App/tree/main/images/images(1).jpg 23”>
