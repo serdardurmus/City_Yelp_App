@@ -4,4 +4,4 @@
 
 ## Expected Outcome
 
-![Portfolio_Bulding_3.js](./Images/images (1).jpg)
+![./City_Yelp_App/index.js](./Images/images (1).jpg)
